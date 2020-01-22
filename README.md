@@ -8,3 +8,8 @@ In this capstone, you will show off your problem solving and Java programming sk
 3. Calculate how similar a given rater is to another user based on ratings; and
 4. Recommend movies to a given user based on ratings. 
 5. Display recommended movies for a given user on a webpage.
+
+# Running the Project
+In order to run the project on your computer, you need to download and add these 2 libraries as dependency:
+[edu.duke](http://www.dukelearntoprogram.com/downloads/archives/courserajava.jar)
+[org.apache.commons.csv](http://www.dukelearntoprogram.com/downloads/archives/apache-csv.jar)
