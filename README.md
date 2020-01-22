@@ -16,4 +16,5 @@ In order to run the project on your computer, you need to download and add these
 
 # Graphical User Interface
 The user interface for this capstone is offered by instructors at Duke University. You can view the user interface for the project at the link below:<br/>
-[GUI](http://www.dukelearntoprogram.com/capstone/recommender.php?id=v4nPk2xetsKQUq)
+[view project](http://www.dukelearntoprogram.com/capstone/recommender.php?id=v4nPk2xetsKQUq)<br/>
+Note: the user interface works better on large screens. If you use a mobile device, rotate the screen.
