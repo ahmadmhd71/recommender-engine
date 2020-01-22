@@ -13,3 +13,7 @@ In this capstone, you will show off your problem solving and Java programming sk
 In order to run the project on your computer, you need to download and add these 2 libraries as dependency:<br/>
 [edu.duke](http://www.dukelearntoprogram.com/downloads/archives/courserajava.jar)<br/>
 [org.apache.commons.csv](http://www.dukelearntoprogram.com/downloads/archives/apache-csv.jar)
+
+# Graphical User Interface
+The user interface for this capstone is offered by instructors at Duke University. You can view the user interface for the project at the link below:<br/>
+[GUI](http://www.dukelearntoprogram.com/capstone/recommender.php?id=v4nPk2xetsKQUq)
