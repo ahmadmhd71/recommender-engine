@@ -10,4 +10,6 @@ In this capstone, you will show off your problem solving and Java programming sk
 5. Display recommended movies for a given user on a webpage.
 
 # Running the Project
-In order to run the project on your computer, you need to download and add these 2 libraries as dependency:  [edu.duke](http://www.dukelearntoprogram.com/downloads/archives/courserajava.jar)  [org.apache.commons.csv](http://www.dukelearntoprogram.com/downloads/archives/apache-csv.jar)
+In order to run the project on your computer, you need to download and add these 2 libraries as dependency:<br/>
+[edu.duke](http://www.dukelearntoprogram.com/downloads/archives/courserajava.jar)<br/>
+[org.apache.commons.csv](http://www.dukelearntoprogram.com/downloads/archives/apache-csv.jar)
