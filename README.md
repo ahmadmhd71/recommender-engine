@@ -16,7 +16,7 @@ Before running the project on your computer, you need to download and add these 
 <br/>
 After adding these 2 libraries, you can run the Main class. The Main class makes an instance of the class MovieRunnerSimilarRatings
 which has several methods. You can change the data in the MovieRunnerSimilarRatings class to see how the program
-works and to see different results.
+works and to see different results.<br/>
 <br/>
 Note: The project is tested with SDK 8.
 
