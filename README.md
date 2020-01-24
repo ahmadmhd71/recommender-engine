@@ -20,6 +20,6 @@ works and to see different results.
 
 # Graphical User Interface
 The user interface for this capstone is offered by instructors at Duke University. You can view the user interface for the project at the link below:<br/>
-[view project](http://www.dukelearntoprogram.com/capstone/recommender.php?id=v4nPk2xetsKQUq)<br/>
+http://www.dukelearntoprogram.com/capstone/recommender.php?id=v4nPk2xetsKQUq<br/>
 <br/>
 Note: the user interface works better on large screens. If you use a mobile device, rotate the screen.
