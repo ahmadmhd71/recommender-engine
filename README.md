@@ -12,7 +12,10 @@ In this capstone, you will show off your problem solving and Java programming sk
 # Running the Project
 In order to run the project on your computer, you need to download and add these 2 libraries as dependency:<br/>
 [edu.duke](http://www.dukelearntoprogram.com/downloads/archives/courserajava.jar)<br/>
-[org.apache.commons.csv](http://www.dukelearntoprogram.com/downloads/archives/apache-csv.jar)
+[org.apache.commons.csv](http://www.dukelearntoprogram.com/downloads/archives/apache-csv.jar)<br/>
+After adding these 2 libraries, you can run the Main class. The Main class makes an instance of the class MovieRunnerSimilarRatings
+which has several methods. You can change the data in the MovieRunnerSimilarRatings class to see how the program
+works and to see different results.
 
 # Graphical User Interface
 The user interface for this capstone is offered by instructors at Duke University. You can view the user interface for the project at the link below:<br/>
