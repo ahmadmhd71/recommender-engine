@@ -72,7 +72,7 @@ public class MovieRunnerSimilarRatings {
      * and ratings information for
      * initializing the MovieDatabase and the RaterDatabase, and then calls getSimilarRatings for a particular rater ID, a
      * number for the top number of similar raters, and a number of minimal
-     * rateSimilarRatings , and then lists recommended movies and their similarity
+     * rateSimilarRatings, and then lists recommended movies and their similarity
      * ratings.
      */
 
@@ -95,7 +95,7 @@ public class MovieRunnerSimilarRatings {
         System.out.println(ratings.size() + " movie(s) matched");
         for(Rating rating : ratings) {
             System.out.println(MovieDatabase.getTitle(rating.getItem()) + " - "
-                    + ratings.get(0).getValue());
+                    + rating.getValue());
         }
     }
 
@@ -126,7 +126,7 @@ public class MovieRunnerSimilarRatings {
         System.out.println(ratings.size() + " movie(s) matched");
         for(Rating rating : ratings) {
             System.out.println(MovieDatabase.getTitle(rating.getItem()) + " - "
-                    + ratings.get(0).getValue());
+                    + rating.getValue());
             System.out.println(MovieDatabase.getGenres(rating.getItem()));
         }
     }
@@ -158,7 +158,7 @@ public class MovieRunnerSimilarRatings {
         System.out.println(ratings.size() + " movie(s) matched");
         for(Rating rating : ratings) {
             System.out.println(MovieDatabase.getTitle(rating.getItem()) + " - "
-                    + ratings.get(0).getValue());
+                    + rating.getValue());
             System.out.println(MovieDatabase.getDirector(rating.getItem()));
         }
     }
@@ -193,7 +193,7 @@ public class MovieRunnerSimilarRatings {
         for(Rating rating : ratings) {
             System.out.println(MovieDatabase.getTitle(rating.getItem()) + " - "
                     + MovieDatabase.getMinutes(rating.getItem()) + " - "
-                    + ratings.get(0).getValue());
+                    + rating.getValue());
             System.out.println(MovieDatabase.getGenres(rating.getItem()));
         }
     }
@@ -229,7 +229,7 @@ public class MovieRunnerSimilarRatings {
             System.out.println(MovieDatabase.getTitle(rating.getItem()) + " - "
                     + MovieDatabase.getYear(rating.getItem()) + " - "
                     + MovieDatabase.getMinutes(rating.getItem()) + " - "
-                    + ratings.get(0).getValue());
+                    + rating.getValue());
         }
     }
 }
