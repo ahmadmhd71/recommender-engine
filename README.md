@@ -10,15 +10,18 @@ In this capstone, you will show off your problem solving and Java programming sk
 5. Display recommended movies for a given user on a webpage.
 
 # Running the Project
-In order to run the project on your computer, you need to download and add these 2 libraries as dependency:<br/>
+Before running the project on your computer, you need to download and add these 2 libraries as dependency:<br/>
 [edu.duke](http://www.dukelearntoprogram.com/downloads/archives/courserajava.jar)<br/>
 [org.apache.commons.csv](http://www.dukelearntoprogram.com/downloads/archives/apache-csv.jar)<br/>
+<br/>
 After adding these 2 libraries, you can run the Main class. The Main class makes an instance of the class MovieRunnerSimilarRatings
 which has several methods. You can change the data in the MovieRunnerSimilarRatings class to see how the program
-works and to see different results.
+works and to see different results.<br/>
+<br/>
+Note: The project is tested with SDK 8.
 
 # Graphical User Interface
 The user interface for this capstone is offered by instructors at Duke University. You can view the user interface for the project at the link below:<br/>
-[view project](http://www.dukelearntoprogram.com/capstone/recommender.php?id=v4nPk2xetsKQUq)<br/>
+http://www.dukelearntoprogram.com/capstone/recommender.php?id=v4nPk2xetsKQUq<br/>
 <br/>
 Note: the user interface works better on large screens. If you use a mobile device, rotate the screen.
